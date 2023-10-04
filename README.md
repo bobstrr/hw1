@@ -1,1 +1,1 @@
-# hw It's one of the exercises from my homework
+# It's one of the exercises from my homework
